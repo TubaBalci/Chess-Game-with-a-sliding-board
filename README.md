@@ -18,5 +18,5 @@ Sliding Chess is a console-based chess game implemented in Java. It allows two p
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository and run Main.java after compiling all the files
 
